@@ -1,7 +1,11 @@
-[Uploading profile-README-v2.md…]()
+[profile-README-v2 (1).md](https://github.com/user-attachments/files/34741512/profile-README-v2.1.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=190&section=header&text=devninja&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=I%20build%20software%20that%20real%20businesses%20run%20on&descAlignY=60&descSize=17" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1e3a8a,100:2563eb&height=230&section=header&text=Erkinov%20Asliddin&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=60a5fa&strokeWidth=1&desc=devninja%20%C2%B7%20Full-Stack%20Developer&descAlignY=64&descSize=20" alt="Erkinov Asliddin" />
+
+<a href="https://github.com/ErkinovAsliddin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=640&height=40&lines=I+build+production+web+apps;Telegram+bots+%26+SaaS+for+restaurants;Security-first+backends+that+ship;Open+to+freelance+work" alt="typing" />
+</a>
 
 ```
 ██████╗ ███████╗██╗   ██╗███╗   ██╗██╗███╗   ██╗     ██╗ █████╗
@@ -12,14 +16,13 @@
 ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝
 ```
 
-**`devninja`** · Asliddin Erkinov • Samarkand, Uzbekistan 🇺🇿
+**`Erkinov Asliddin`** · aka **devninja** • Samarkand, Uzbekistan 🇺🇿
 
 Independent full-stack developer · Self-taught · Open to freelance work
 
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=googlechrome&logoColor=2563eb)](https://your-portfolio.com)
-<!-- TODO: replace the three links above. Delete any you don't have. -->
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/aslbek_fullstack)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mr.asliddin77@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=googlechrome&logoColor=2563eb)](https://erkinovasliddin.com)
 
 </div>
 
@@ -41,7 +44,6 @@ A multi-tenant QR-ordering SaaS: per-restaurant slug URLs, dine-in / pickup / de
 |---|---|
 | **Type** | SaaS · Restaurant tech |
 | **Stack** | `React` `Express` `SQLite` `Docker` `Nginx` `Telegram Bot API` |
-| **Scale** | [TODO: e.g. number of restaurants / orders, only if true] |
 | **Repo** | [ErkinovAsliddin/Qulaycafe](https://github.com/ErkinovAsliddin/Qulaycafe) |
 
 ---
@@ -56,7 +58,6 @@ Reads incoming support tickets and drafts answers grounded in a knowledge base. 
 |---|---|
 | **Type** | AI agent · Customer support |
 | **Stack** | `React` `Vite` `FastAPI` `ChromaDB` `SQLite` `Docker` |
-| **Repo** | [TODO: link to HelpPilot repo] |
 
 ---
 
@@ -70,7 +71,6 @@ Turned a prototype into a secure production system: bcrypt + JWT auth, Zod valid
 |---|---|
 | **Type** | Client project · Restaurant ordering |
 | **Stack** | `Node.js` `Zod` `JWT` `SSE` `Docker Compose` |
-| **Repo** | [TODO: link if public, otherwise delete this row] |
 
 ---
 
@@ -145,7 +145,7 @@ Turned a prototype into a secure production system: bcrypt + JWT auth, Zod valid
 - Security-minded backend work
 - Interesting projects with a real user at the end
 
-**Have something in mind?** → [Let's talk](mailto:your@email.com)
+**Have something in mind?** → [Let's talk](mailto:mr.asliddin77@gmail.com)
 
 <div align="center">
 
